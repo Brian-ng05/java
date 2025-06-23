@@ -1,4 +1,4 @@
-package L03javareview;
+package L03javareview.linkedList;
 
 public class LinkedListADT<E> implements LinkedList<E> {
     private class Node<E>{

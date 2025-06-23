@@ -1,4 +1,4 @@
-package L03javareview;
+package L03javareview.linkedList;
 
 public interface LinkedList<E> {
     /**

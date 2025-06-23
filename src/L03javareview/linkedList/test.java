@@ -1,6 +1,4 @@
-package L03javareview;
-
-import L02javareview.ArrayListADT;
+package L03javareview.linkedList;
 
 public class test {
     public static void main ( String[] args ) {

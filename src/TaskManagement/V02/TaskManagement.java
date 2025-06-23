@@ -140,8 +140,6 @@ public class TaskManagement {
                     break;
                 default:
                     System.out.println("Invalid option. Please select a valid option (1-5).\n");
-                    System.out.println("Invalid option. Please select a valid option (1-5).\n");
-                    System.out.println("Invalid option. Please select a valid option (1-5).\n");
                     break;
             }
         } while (running);
