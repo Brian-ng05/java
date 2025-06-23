@@ -129,7 +129,7 @@ public class LinkedListADT<E> implements LinkedList<E> {
         Node<E> tempNode = this.head;
         while (tempNode != null){
             result.append(tempNode.element);
-                if (tempNode.next == null) {
+                if (tempNode.next != null) {
                     result.append(", ");
                 }
                 tempNode = tempNode.next;
